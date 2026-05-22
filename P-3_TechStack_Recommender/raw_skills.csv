@@ -1,0 +1,21 @@
+job_role,skills
+Data Scientist,Python SQL Machine_Learning Statistics Data_Analysis NumPy Pandas TensorFlow Deep_Learning Visualization
+ML Engineer,Python TensorFlow PyTorch Machine_Learning Deep_Learning Docker Kubernetes MLOps Model_Deployment Git
+Backend Developer,Python Java SQL REST_APIs Django Flask Node.js PostgreSQL MongoDB Git Docker
+Frontend Developer,JavaScript HTML CSS React Vue.js TypeScript Figma UI_UX Git REST_APIs
+Full Stack Developer,JavaScript Python HTML CSS React Node.js SQL MongoDB REST_APIs Git Docker
+DevOps Engineer,AWS Docker Kubernetes Linux CI_CD Git Terraform Ansible Bash Monitoring
+Cloud Architect,AWS Azure GCP Docker Kubernetes Networking Security Terraform Cloud_Computing Linux
+Data Engineer,Python SQL Spark Hadoop ETL Airflow Kafka PostgreSQL Data_Pipelines Cloud_Computing
+Cybersecurity Analyst,Networking Security Linux Ethical_Hacking Cryptography Firewalls Python Risk_Assessment SIEM
+Mobile Developer,Swift Kotlin Java React_Native Flutter Android iOS REST_APIs Git UI_UX
+AI Researcher,Python TensorFlow PyTorch Deep_Learning Machine_Learning Mathematics Statistics NLP Computer_Vision Research
+Database Administrator,SQL PostgreSQL MySQL MongoDB Oracle Database_Design Backup_Recovery Performance_Tuning Linux
+Blockchain Developer,Solidity Ethereum Web3 JavaScript Smart_Contracts Cryptography Python Node.js Git Security
+Systems Programmer,C C++ Linux Assembly OS_Development Networking Embedded_Systems Git Performance_Tuning
+QA Engineer,Python Java Selenium Testing Automation REST_APIs Git CI_CD Bug_Tracking Agile
+Data Analyst,SQL Python Excel Power_BI Tableau Statistics Data_Analysis Visualization Reporting Business_Intelligence
+Site Reliability Engineer,Linux Python Bash Docker Kubernetes Monitoring CI_CD AWS Git Networking
+NLP Engineer,Python NLP TensorFlow PyTorch Deep_Learning Machine_Learning BERT Transformers Statistics Text_Processing
+Computer Vision Engineer,Python OpenCV TensorFlow PyTorch Deep_Learning Machine_Learning Image_Processing C++ CUDA NumPy
+Product Manager,Agile Roadmapping Data_Analysis Communication SQL Jira Figma Business_Intelligence Research Leadership
