@@ -42,8 +42,8 @@ np.random.seed(42)
 COLORS = np.random.randint(0, 255, size=(len(CLASSES), 3), dtype="uint8")
 
 # Model file paths (place in same directory or update paths)
-PROTOTXT_PATH   = "C:\\Users\\Dell\\Downloads\\deploy.prototxt"
-CAFFEMODEL_PATH = "C:\\Users\\Dell\\Downloads\\mobilenet_iter_73000.caffemodel"
+PROTOTXT_PATH   = "C:\\Users\\Dell\\Desktop\\INTERNSHIPS\\DecodeLabs(AI)\\P_4_Classification_Recognition\\models\\deploy.prototxt"
+CAFFEMODEL_PATH = "C:\\Users\\Dell\\Desktop\\INTERNSHIPS\\DecodeLabs(AI)\\P_4_Classification_Recognition\\models\\mobilenet_iter_73000.caffemodel"
 
 # ─── AUTO-DOWNLOAD MODEL FILES ───────────────────────────────────────────────────
 
